@@ -1,0 +1,22 @@
+{
+  "name": "fabstract/linq",
+  "type": "library",
+  "description": "LINQ library for PHP",
+  "keywords": [
+    "php",
+    "linq"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ahmet Turk",
+      "email": "ahmetturk93@gmail.com",
+      "homepage": "https://github.com/fabstract"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Fabs\\Component\\LINQ\\": "src"
+    }
+  }
+}
