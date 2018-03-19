@@ -16,7 +16,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Fabs\\Component\\LINQ\\": "src"
+      "Fabstract\\Component\\LINQ\\": "src"
     }
   }
 }

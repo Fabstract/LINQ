@@ -1,6 +1,6 @@
 <?php
 
-namespace Fabs\Component\LINQ\Exception;
+namespace Fabstract\Component\LINQ\Exception;
 
 class ArgumentOutOfRangeException extends Exception
 {

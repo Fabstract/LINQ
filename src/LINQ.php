@@ -1,9 +1,9 @@
 <?php
 
-namespace Fabs\Component\LINQ;
+namespace Fabstract\Component\LINQ;
 
-use Fabs\Component\LINQ\Exception\ArgumentOutOfRangeException;
-use Fabs\Component\LINQ\Exception\InvalidOperationException;
+use Fabstract\Component\LINQ\Exception\ArgumentOutOfRangeException;
+use Fabstract\Component\LINQ\Exception\InvalidOperationException;
 use InvalidArgumentException;
 
 class LINQ
